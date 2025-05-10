@@ -1,0 +1,12 @@
+Pregunta 1: ¿Cuál es el código máquina de la instrucción resaltada? La respuesta debe ser un
+ número hexadecimal de 32 bits, con el prefijo 0x
+ En la instruccion resaltada con el PC indicando a la direccion 0x00 hay un codigo de maquina de 
+ 32 bits el cual es --> 0x000002B3
+
+Pregunta 2: ¿Cuál es el código máquina de la instrucción en la dirección 0x34? La respuesta 
+debe ser un número hexadecimal de 32 bits, con el prefijo 0x
+ En la instruccion 0x34 se encuentra el codigo de maquina --> 0x00000073
+
+Pregunta 3: ¿Cuál es el valor del registro sp? La respuesta debe ser un número hexadecimal
+ de 32 bits, con el prefijo 0x.
+ El valor que se encuentra en el registro sp es --> 0x7FFFFFDC
