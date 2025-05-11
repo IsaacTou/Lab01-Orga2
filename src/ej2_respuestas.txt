@@ -29,4 +29,19 @@ de 8 bits (1 byte), con el prefijo 0x
 t3 tiene la direccion de memoria de n. Por tanto al buscar en memoria esta direccion de memoria encontramos un valor.
 Dicho valor es 0x0000000C
 
+Pregunta 8: ¿Cuál es el valor del registro t0? La respuesta debe ser un número hexadecimal
+de 32 bits, con el prefijo 0x.
+El valor del registro t0 es de --> 0x00000001
 
+Pregunta 9: ¿Cuál es el nuevo valor del registro t0? La respuesta debe ser un número
+hexadecimal de 32 bits, con el prefijo 0x
+El valor del registro t0 es de --> 0x00000001
+
+Pregunta 10: ¿Cuál es el valor del registro t0 en decimal? La respuesta debe ser un número
+ decimal sin prefijo.
+El valor decimal del registro t0 sin prefijo es de 1
+
+Pregunta 11: ¿Cuál es la salida del programa? La respuesta debe ser un número decimal sin
+ prefijo.
+ La salida del programa es el numero 144. El cual es el termino 12 de la sucesión de fibonacci.
+ 
