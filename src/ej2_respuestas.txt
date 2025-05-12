@@ -1,47 +1,44 @@
 Pregunta 1: ¿Cuál es el código máquina de la instrucción resaltada? La respuesta debe ser un
- número hexadecimal de 32 bits, con el prefijo 0x
- En la instruccion resaltada con el PC indicando a la direccion 0x00 hay un codigo de maquina de 
- 32 bits el cual es --> 0x000002B3
+número hexadecimal de 32 bits, con el prefijo 0x
+ Respuesta: 0x000002B3
 
 Pregunta 2: ¿Cuál es el código máquina de la instrucción en la dirección 0x34? La respuesta 
 debe ser un número hexadecimal de 32 bits, con el prefijo 0x
- En la instruccion 0x34 se encuentra el codigo de maquina --> 0x00000073
+ Respuesta: 0x00000073
 
 Pregunta 3: ¿Cuál es el valor del registro sp? La respuesta debe ser un número hexadecimal
- de 32 bits, con el prefijo 0x.
- El valor que se encuentra en el registro sp es --> 0x7FFFFFDC
+de 32 bits, con el prefijo 0x.
+ Respuesta: 0x7FFFFFDC
 
 Pregunta 4: ¿Cuál es el nuevo valor del registro t1? La respuesta debe ser un número
- hexadecimal de 32 bits, con el prefijo 0x
-El valor que se encuentra en el registro t1 con el prefijo 0x es --> 0x00000001
-Esto sucede porque la instruccion ejecutada anteriormente carga en el registro t1 el valor inmediato de 1
+hexadecimal de 32 bits, con el prefijo 0x
+ Respuesta: 0x00000001
 
 Pregunta 5: ¿Cuál es el código máquina de la instrucción actual? La respuesta debe ser un
- número hexadecimal de 32 bits, con el prefijo 0x.
-La instruccion actual a la que apunta el contador de programa tiene el codigo de maquina de 0x10000E17
+número hexadecimal de 32 bits, con el prefijo 0x.
+ Respuesta: 0x10000E17
 
 Pregunta 6: ¿Cuál es el valor del registro t3? La respuesta debe ser un número hexadecimal
 de 32 bits, con el prefijo 0x.
-El valor del registro t3 en la direccion actual del PC 0x10 es de 0x10000000 posterior a ejecutar el la(load addres) de n al registro t3
+ Respuesta: 0x10000000 
 
 Pregunta 7: ¿Cuál es el byte al que apunta t3? La respuesta debe ser un número hexadecimal
 de 8 bits (1 byte), con el prefijo 0x
-t3 tiene la direccion de memoria de n. Por tanto al buscar en memoria esta direccion de memoria encontramos un valor.
-Dicho valor es 0x0000000C
+ Respuesta: 0x0C
 
 Pregunta 8: ¿Cuál es el valor del registro t0? La respuesta debe ser un número hexadecimal
 de 32 bits, con el prefijo 0x.
-El valor del registro t0 es de --> 0x00000001
+ Respuesta: 0x00000001
 
 Pregunta 9: ¿Cuál es el nuevo valor del registro t0? La respuesta debe ser un número
 hexadecimal de 32 bits, con el prefijo 0x
-El valor del registro t0 es de --> 0x00000001
+ Respuesta: 0x0000000D
 
 Pregunta 10: ¿Cuál es el valor del registro t0 en decimal? La respuesta debe ser un número
- decimal sin prefijo.
-El valor decimal del registro t0 sin prefijo es de 1
+decimal sin prefijo.
+ Respuesta: 13
 
 Pregunta 11: ¿Cuál es la salida del programa? La respuesta debe ser un número decimal sin
- prefijo.
- La salida del programa es el numero 144. El cual es el termino 12 de la sucesión de fibonacci.
+prefijo.
+ Respuesta: 144
  

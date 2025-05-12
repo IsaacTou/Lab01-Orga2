@@ -1,32 +1,32 @@
 Pregunta 1: ¿Qué dirección intentó acceder el programa, pero causó el error? La respuesta
 debe ser un número hexadecimal de 32 bits, con el prefijo 0x
-La direccion a la que intento acceder el programa pero causo un error es --> 0x10008058
+ Respuesta: 0x10008058
 
 Pregunta 2: ¿Cuántos bytes intentaba acceder el programa? La respuesta debe ser un
 número decimal sin prefijo.
-Intento acceder a 4 bytes en la direccion previamente mencionada 
+ Respuesta: 4 bytes 
 
 Pregunta 3: ¿Qué dirección intentó acceder el programa, pero causó el error? La respuesta
 debe ser un número hexadecimal de 32 bits, con el prefijo 0x.
-Intento acceder a --> 0x10008080
+ Respuesta: 0x10008080
 
 Pregunta 4: ¿Cuántos bytes fueron asignados en el bloque relacionado con el error? La
 respuesta debe ser un número sin unidades.
-Un bloque de tamaño 40.
+ Respuesta: 40
 
 Pregunta 5: ¿Qué línea del archivo fuente causó este error? La respuesta debe ser un
 número.
-Linea 18
+ Respuesta: Linea 18
 
 Pregunta 6: ¿Cuál es el valor de t1 según el mensaje de error de memcheck? La respuesta
 debe ser un número decimal.
-El valor de t1 segun el mensaje de error en memcheck es de 10
+ Respuesta: 10
 
 Pregunta 7: ¿Cuántos bytes no fueron liberados cuando el programa terminó? La respuesta
 debe ser un número decimal sin unidades.
-40 bytes no fueron liberados al terminar el programa
+ Respuesta: 40 bytes 
 
 Pregunta 8: ¿Cuál es la dirección del bloque que no se liberó? La respuesta debe ser un
 número hexadecimal de 32 bits, con el prefijo 0x
-La direccion del bloque que no se libero es --> 0x10008058
+ Respuesta: 0x10008058
 
